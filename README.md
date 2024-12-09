@@ -1,6 +1,7 @@
 # Personal CV Website
 
-This project is a simple personal CV website built with HTML and CSS. It presents a clean and responsive layout to showcase your profile, contact information, skills, projects, and social media links.
+This project is a simple personal CV website built with HTML and CSS. It presents a clean layout to showcase your profile, contact information, skills, projects, and social media links.
+![Alt Text](./output.png)
 
 ## Features
 
